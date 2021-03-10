@@ -6,7 +6,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, será utilizada a mesma aplicação do desafio 1 porém focada nos middlewares!
+Nesse desafio será utilizada a mesma aplicação do [Desafio 01](https://github.com/jfelipearaujo/ignite-desafio-conceitos-do-nodejs) porém com algumas mudanças e será focada nos middlewares!
 
 ### :keyboard: Instalação e Execução do Projeto
 
